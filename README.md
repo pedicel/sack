@@ -24,3 +24,5 @@ SynthDef(\hello, { arg a = 0, b = 1;
 });_
 
 the last SynthDef should have no underscore
+
+Why CP is commented out ?
